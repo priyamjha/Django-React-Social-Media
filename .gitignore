@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Django stuff
+db.sqlite3
+
+# Environment
+env/
+venv/
+*.env
+
+# Media files (user uploads)
+media/
+Djago Social Media\backend\media
+
+# VSCode/IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
