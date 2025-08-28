@@ -1,5 +1,3 @@
----
-
 # 🌐 Django + React Social Media Platform
 
 A **full-stack social media platform** built with **Django (backend)** and **React (frontend)**.
